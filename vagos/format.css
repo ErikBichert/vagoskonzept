@@ -1,0 +1,197 @@
+/* DATEI: format.css */
+
+body {
+	background-color: black;
+	text-align: center;
+	height: 100%;
+	font-family: OriginalGangstA;
+} 
+
+h1 {
+	color: black;
+	border-width: 250x;
+	border-color: yellow;
+	background-color: yellow;
+	padding: 25px;
+
+}
+ #top {
+	 text-align: center;
+ }
+ #navigation a {
+	 color: white;
+	 padding: 8px;
+	 font-size: 17px;
+ }
+ #navigation a:hover {
+	 color: yellow;
+ }
+ #navigation a:active {
+	 color: yellow;
+ }
+ h2 {
+	 color: yellow;
+	  
+ }
+ h3 {
+	 color: yellow;
+ }
+ #main {
+	 max-width: 800px;
+	 margin: auto;
+	 padding:15px;
+ }
+ ul {
+	 list-style-type:disc;
+	 color: yellow;
+	 display: table;
+	 margin: 0 auto;
+	 font-size: 25px;
+	
+ }
+ #nebenbild {
+	 font-size:30px;
+	 color: yellow;
+	 display: table;
+	 margin: 150px;
+	
+ }
+ #nebenbild2 {
+	 font-size:30px;
+	 color: yellow;
+	 display: table;
+	 margin: 350px;
+	
+ }
+ #nebenbild3 {
+	 font-size:30px;
+	 color: yellow;
+	 display: table;
+	 margin: 450px;
+	
+ }
+ #nebenbild4 {
+	 font-size:30px;
+	 color: yellow;
+	 display: table;
+	 margin: 100px;
+	
+ }
+ #nebenbild5 {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: -25px;
+	
+ }
+ #schafter {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 25px;
+	
+ }
+ #sultan {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 225px;
+	
+ }
+ #revolter {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 225px;
+	
+ }
+ #chino {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 235px;
+	
+ }
+ #bmx {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 235px;
+
+	
+ }
+ #benz {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 225px;
+	
+ }
+ #frakgarage {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 25px;
+	
+ }
+ #ausparkauto {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 225px;
+	
+ }
+ #heli {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 225px;
+	
+ }
+ #spawnheli {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 225px;
+	
+ }
+ #waffenkammer {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 235px;
+	
+ }
+ #umkleide {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 235px;
+	
+ }
+ #bossmenü {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 235px;
+	
+ }
+ #patron {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 25px;
+	
+ }
+ #frank {
+	 font-size:20px;
+	 color: yellow;
+	 display: table;
+	 margin: 285px;
+	
+ }
+ footer {
+	 text-align: center;
+	 color: yellow;
+	 font-size: 10pt;
+ }
